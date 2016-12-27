@@ -26,12 +26,12 @@ the basics of PHP.
 variables.php
 -------------
 
-
 ![GIF demo](md_gifs_etc/phpBasics_variables.gif)
-
 
 variable_scope.php
 ------------------
+
+![GIF demo](md_gifs_etc/phpBasics_variable_scope.gif)
 
 myMath.php
 ----------
